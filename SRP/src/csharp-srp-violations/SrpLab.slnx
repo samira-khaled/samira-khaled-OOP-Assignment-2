@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/SrpLab.Runner/SrpLab.Runner.csproj" />
-    <Project Path="src/SrpLab/SrpLab.csproj" />
-  </Folder>
-</Solution>
